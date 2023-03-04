@@ -1,3 +1,4 @@
+package Wndg;
 
 import Wndg.*;
 
